@@ -1,2 +1,2 @@
 # Data-Analysis-Nanaodegree
-##projects in this nanadogree
+## projects in this nanadogree
